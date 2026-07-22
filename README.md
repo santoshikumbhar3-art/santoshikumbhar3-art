@@ -123,6 +123,7 @@ I enjoy building scalable applications, learning new technologies, and writing c
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/santoshikumbhar3-art"><img src="https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" height="55"/></a>
 </p>
+</p>
 
 <p align="center">
 <b>Always open to learning, collaborating, and contributing to open source.</b>
