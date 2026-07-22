@@ -116,25 +116,17 @@ I enjoy building scalable applications, learning new technologies, and writing c
 
 ### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎
 
-<table>
-<tr>
-<td align="center" width="300">
+<h2 align="center">🤝 Connect With Me</h2>
 
-<h3>🐙 GitHub</h3>
+<p align="center">
+<a href="mailto:santoshikumbhar3@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 
-<a href="https://github.com/santoshikumbhar3-art"><b>santoshikumbhar3-art</b></a>
-
-</td>
-<td align="center" width="300">
-
-<h3>📧 Email</h3>
-
-<a href="mailto:santoshikumbhar3@gmail.com"><b>santoshikumbhar3@gmail.com</b></a>
-
-</td>
-</tr>
-</table>
-
+<a href="https://github.com/santoshikumbhar3-art">
+<img src="https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
 <br/>
 
 </div>
