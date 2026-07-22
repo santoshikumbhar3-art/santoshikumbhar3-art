@@ -120,14 +120,13 @@ I enjoy building scalable applications, learning new technologies, and writing c
 
 <p align="center">
 <a href="mailto:santoshikumbhar3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gmail-0D0D0F?style=for-the-badge&logo=gmail&logoColor=F9A8D4&labelColor=0D0D0F"/>
 </a>
 
 <a href="https://github.com/santoshikumbhar3-art">
-<img src="https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0F?style=for-the-badge&logo=github&logoColor=F9A8D4&labelColor=0D0D0F"/>
 </a>
 </p>
-<br/>
 
 </div>
 
