@@ -108,7 +108,9 @@ I enjoy building scalable applications, learning new technologies, and writing c
 
 </div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:FBCFE8,100:0A0A0A&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A0A0A,50:F9A8D4,100:0A0A0A&section=footer"/>
+
+<h3 align="center">✨ Code • Learn • Build • Contribute ✨</h3>
 
 <div align="center">
 
@@ -118,12 +120,16 @@ I enjoy building scalable applications, learning new technologies, and writing c
 
 <p align="center">
 <a href="mailto:santoshikumbhar3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D0D0F?style=for-the-badge&logo=gmail&logoColor=F9A8D4&labelColor=0D0D0F"/>
+<img src="https://img.shields.io/badge/Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A"/>
 </a>
 
 <a href="https://github.com/santoshikumbhar3-art">
-<img src="https://img.shields.io/badge/GitHub-0D0D0F?style=for-the-badge&logo=github&logoColor=F9A8D4&labelColor=0D0D0F"/>
+<img src="https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A"/>
 </a>
+</p>
+
+<p align="center">
+<sub>Always open to learning, collaborating, and contributing to open source.</sub>
 </p>
 
 </div>
