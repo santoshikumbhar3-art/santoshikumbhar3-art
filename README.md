@@ -65,7 +65,7 @@
     <text x="0" y="118" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="#F5F5F7">Santoshi Kumbhar</text>
     <text x="2" y="150" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="url(#pinkText)">Computer Engineering Student  ·  Open Source Contributor</text>
 
-    <g font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">
+   <g font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">
       <g transform="translate(0,180)" filter="url(#softGlow)">
         <rect width="76" height="30" rx="15" fill="#151217" stroke="url(#chipBorder)" stroke-width="1.2"/>
         <text x="38" y="19" text-anchor="middle" fill="#FDE2E4">React</text>
