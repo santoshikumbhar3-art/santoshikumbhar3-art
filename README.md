@@ -1,162 +1,131 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,50:8B5CF6,100:A855F7&height=280&section=header&text=SANTOSHI%20KUMBHAR&fontSize=52&fontColor=E0D4FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Open%20Source%20Contributor&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:8B5CF6,100:050816&height=180&section=header&text=&fontSize=0" />
 
 <br/>
 
-<a href="https://github.com/santoshikumbhar3-art">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Full+Stack+Web+Developer;Open+Source+Contributor;React+Developer;Node.js+Developer;Lifelong+Learner&font=Fira+Code&center=true&width=560&height=50&color=A855F7&vCenter=true&size=24&pause=1200&background=03001400" alt="Typing SVG" />
-</a>
+<h1 align="center" style="font-weight:600;">Santoshi Kumbhar</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+<p align="center">
+  <sub><strong>Computer Engineering Student · Open Source Contributor</strong></sub>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=460&height=30&lines=Full+Stack+Web+Developer;React+%26+Node.js;Open+Source+Contributor" />
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<p align="center" width="80%">
+&nbsp;&nbsp;&nbsp;&nbsp;Computer Engineering student passionate about modern web development and open-source software. I enjoy building scalable applications, learning new technologies, and writing clean, maintainable code.
+</p>
 
-### 💜 About Me
+<br/>
 
-I'm a Computer Engineering student passionate about building scalable web applications and contributing to open-source projects. I enjoy crafting modern digital experiences, exploring emerging technologies, and continuously sharpening my software engineering skills through hands-on development.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1" style="opacity:0.15" />
 
-</td>
-<td width="40%">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2f4b62-c930-4a6b-a903-4267f9481b2e.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
-
-<div align="center">
-
-## 🪐 About Me
-
-</div>
+<br/>
 
 <table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-```
-🎓  Computer Engineering Student
-💻  Full Stack Web Developer
-🚀  Open Source Contributor
-```
+**Focus**
+
+- Computer Engineering Student
+- Full Stack Web Development
+- Open Source Contributor
+- Clean Architecture & Problem Solving
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-```
-🌱  Learning React, Node.js, Express & MongoDB
-⚡  Passionate about Clean Architecture
-🧠  Love solving real-world problems
-```
+**Currently Building With**
+
+- React · Node.js · Express
+- MongoDB
+- Tailwind CSS
+- Git & GitHub
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+<br/>
 
 <div align="center">
 
-## ⚙️ Tech Arsenal
-
+<sub><strong>LANGUAGES</strong></sub>
 <br/>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,py,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,javascript&theme=dark&perline=3" height="32"/>
 
 <br/><br/>
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
-
-<br/><br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<sub><strong>FRONTEND</strong></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" height="32"/>
 
 <br/><br/>
 
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+<sub><strong>BACKEND</strong></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" height="32"/>
 
 <br/><br/>
 
-**Tools**
+<sub><strong>DATABASE</strong></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=1" height="32"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<br/><br/>
+
+<sub><strong>TOOLS</strong></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4" height="32"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+<br/>
 
-<div align="center">
-
-## 📊 GitHub Analytics Dashboard
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1" style="opacity:0.15" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=santoshikumbhar3-art&show_icons=true&theme=radical&bg_color=030014&title_color=A855F7&icon_color=8B5CF6&text_color=E0D4FF&border_color=8B5CF6&border_radius=14&hide_border=false" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshikumbhar3-art&theme=radical&background=030014&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=E0D4FF&border=8B5CF6&border_radius=14" width="49%" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=santoshikumbhar3-art&show_icons=true&theme=radical&hide_border=true&bg_color=0E1023&title_color=A855F7&icon_color=8B5CF6&text_color=A1A1AA&border_radius=12" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshikumbhar3-art&layout=compact&theme=radical&hide_border=true&bg_color=0E1023&title_color=A855F7&text_color=A1A1AA&border_radius=12" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshikumbhar3-art&layout=compact&theme=radical&bg_color=030014&title_color=A855F7&text_color=E0D4FF&border_color=8B5CF6&border_radius=14&hide_border=false" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=santoshikumbhar3-art&theme=radical&no-frame=true&column=3&margin-w=8&margin-h=8&row=2" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshikumbhar3-art&theme=radical&hide_border=true&background=0E1023&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A1A1AA&border_radius=12" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=santoshikumbhar3-art&theme=radical&no-frame=true&column=4&row=1&margin-w=6&margin-h=6" width="49%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshikumbhar3-art&theme=react-dark&bg_color=030014&color=A855F7&line=8B5CF6&point=E0D4FF&hide_border=true&border_radius=14" width="98%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/santoshikumbhar3-art/santoshikumbhar3-art/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — purple theme configured in the workflow.</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshikumbhar3-art&theme=react-dark&bg_color=0E1023&color=A855F7&line=8B5CF6&point=FFFFFF&hide_border=true&border_radius=12" width="98%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1" style="opacity:0.15" />
+
+<br/>
 
 <div align="center">
 
-## 📡 Connect With Me
-
-<a href="mailto:santoshikumbhar3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-santoshikumbhar3%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=E0D4FF&labelColor=030014" />
-</a>
 <a href="https://github.com/santoshikumbhar3-art">
-  <img src="https://img.shields.io/badge/GitHub-santoshikumbhar3--art-A855F7?style=for-the-badge&logo=github&logoColor=E0D4FF&labelColor=030014" />
+  <img src="https://img.shields.io/badge/GitHub-santoshikumbhar3--art-0E1023?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0E1023" />
+</a>
+<a href="mailto:santoshikumbhar3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-santoshikumbhar3%40gmail.com-0E1023?style=for-the-badge&logo=gmail&logoColor=A855F7&labelColor=0E1023" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=santoshikumbhar3-art&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:8B5CF6,100:030014&height=150&section=footer" />
+<br/>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:8B5CF6,100:050816&height=110&section=footer" />
 
-### <sub>✨ Code • Learn • Build • Contribute ✨</sub>
-
-</div>
+<p align="center"><sub>Code. Build. Contribute.</sub></p>
