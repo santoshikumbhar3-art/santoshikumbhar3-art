@@ -130,7 +130,3 @@ I enjoy building scalable applications, learning new technologies, and writing c
 </p>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a1a1a,100:0A0A0A&height=100&section=footer" />
-
-
