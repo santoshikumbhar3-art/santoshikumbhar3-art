@@ -114,8 +114,6 @@ I enjoy building scalable applications, learning new technologies, and writing c
 
 <br/>
 
-### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎
-
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
