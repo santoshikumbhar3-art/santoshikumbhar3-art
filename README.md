@@ -119,15 +119,18 @@ I enjoy building scalable applications, learning new technologies, and writing c
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
+
 <a href="mailto:santoshikumbhar3@gmail.com">
-<img src="https://img.shields.io/badge/Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" height="50"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/santoshikumbhar3-art">
-<img src="https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A"/>
+<img src="https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" height="50"/>
 </a>
-</p>
 
+</p>
 <p align="center">
 <sub>Always open to learning, collaborating, and contributing to open source.</sub>
 </p>
@@ -136,4 +139,4 @@ I enjoy building scalable applications, learning new technologies, and writing c
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a1a1a,100:0A0A0A&height=100&section=footer" />
 
-<p align="center"><sub>Code. Build. Contribute.</sub></p>
+
