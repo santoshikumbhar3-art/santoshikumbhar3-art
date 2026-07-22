@@ -1,89 +1,130 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0A0A0A"/>
-      <stop offset="100%" stop-color="#111014"/>
-    </linearGradient>
-    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#F9A8D4" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#F9A8D4" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#FBCFE8" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#FBCFE8" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="pinkText" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F9A8D4"/>
-      <stop offset="100%" stop-color="#FDE2E4"/>
-    </linearGradient>
-    <linearGradient id="chipBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F9A8D4"/>
-      <stop offset="100%" stop-color="#FBCFE8"/>
-    </linearGradient>
-    <filter id="blurBig" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="45"/>
-    </filter>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+<div align="center">
 
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<img src="https://raw.githubusercontent.com/santoshikumbhar3-art/santoshikumbhar3-art/main/assets/hero-banner.svg" width="100%" />
 
-  <circle cx="140" cy="60" r="120" fill="url(#glow1)" filter="url(#blurBig)"/>
-  <circle cx="1080" cy="250" r="140" fill="url(#glow2)" filter="url(#blurBig)"/>
+<br/>
 
-  <g opacity="0.18" stroke="#F9A8D4" stroke-width="1">
-    <line x1="0" y1="40" x2="220" y2="40"/>
-    <line x1="220" y1="40" x2="260" y2="80"/>
-    <circle cx="260" cy="80" r="3" fill="#F9A8D4"/>
-    <line x1="1000" y1="260" x2="1200" y2="260"/>
-    <line x1="960" y1="230" x2="1000" y2="260"/>
-    <circle cx="960" cy="230" r="3" fill="#F9A8D4"/>
-  </g>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1100&color=F9A8D4&center=true&vCenter=true&width=480&height=30&lines=Full+Stack+Web+Developer;React+%26+Node.js+Engineer;Open+Source+Contributor" />
 
-  <g transform="translate(48,58)">
-    <rect width="430" height="190" rx="12" fill="#0E0D11" stroke="#2A2228" stroke-width="1"/>
-    <rect width="430" height="30" rx="12" fill="#161318"/>
-    <rect width="430" height="15" y="15" fill="#161318"/>
-    <circle cx="20" cy="15" r="5" fill="#F87171"/>
-    <circle cx="38" cy="15" r="5" fill="#FBCFE8"/>
-    <circle cx="56" cy="15" r="5" fill="#86EFAC"/>
-    <text x="20" y="55" font-family="'JetBrains Mono', monospace" font-size="13" fill="#F9A8D4">const developer = {</text>
-    <text x="36" y="78" font-family="'JetBrains Mono', monospace" font-size="13" fill="#E8E8EA">name: <tspan fill="#FDE2E4">"Santoshi Kumbhar"</tspan>,</text>
-    <text x="36" y="101" font-family="'JetBrains Mono', monospace" font-size="13" fill="#E8E8EA">role: <tspan fill="#FDE2E4">"Full Stack Developer"</tspan>,</text>
-    <text x="36" y="124" font-family="'JetBrains Mono', monospace" font-size="13" fill="#E8E8EA">stack: [<tspan fill="#FBCFE8">React, Node, Mongo</tspan>],</text>
-    <text x="36" y="147" font-family="'JetBrains Mono', monospace" font-size="13" fill="#E8E8EA">openSource: <tspan fill="#86EFAC">true</tspan></text>
-    <text x="20" y="170" font-family="'JetBrains Mono', monospace" font-size="13" fill="#F9A8D4">};</text>
-  </g>
+</div>
 
-  <g transform="translate(560,0)">
-    <text x="0" y="118" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="#F5F5F7">Santoshi Kumbhar</text>
-    <text x="2" y="150" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="url(#pinkText)">Computer Engineering Student  ·  Open Source Contributor</text>
+<br/>
 
-   <g font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600">
-      <g transform="translate(0,180)" filter="url(#softGlow)">
-        <rect width="76" height="30" rx="15" fill="#151217" stroke="url(#chipBorder)" stroke-width="1.2"/>
-        <text x="38" y="19" text-anchor="middle" fill="#FDE2E4">React</text>
-      </g>
-      <g transform="translate(88,180)" filter="url(#softGlow)">
-        <rect width="92" height="30" rx="15" fill="#151217" stroke="url(#chipBorder)" stroke-width="1.2"/>
-        <text x="46" y="19" text-anchor="middle" fill="#FDE2E4">Node.js</text>
-      </g>
-      <g transform="translate(192,180)" filter="url(#softGlow)">
-        <rect width="106" height="30" rx="15" fill="#151217" stroke="url(#chipBorder)" stroke-width="1.2"/>
-        <text x="53" y="19" text-anchor="middle" fill="#FDE2E4">MongoDB</text>
-      </g>
-      <g transform="translate(310,180)" filter="url(#softGlow)">
-        <rect width="130" height="30" rx="15" fill="#151217" stroke="url(#chipBorder)" stroke-width="1.2"/>
-        <text x="65" y="19" text-anchor="middle" fill="#FDE2E4">Open Source</text>
-      </g>
-    </g>
-  </g>
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:F9A8D4,100:0A0A0A&height=2" />
 
-  <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#2A2228" stroke-width="1"/>
-</svg>
+<br/>
+
+<p align="center">
+Computer Engineering student passionate about modern web development and open-source software.<br/>
+I enjoy building scalable applications, learning new technologies, and writing clean, maintainable code.
+</p>
+
+<br/>
+
+<table align="center" width="94%">
+<tr>
+<td width="50%" valign="top">
+
+#### 𝙵𝚘𝚌𝚞𝚜
+
+&nbsp;&nbsp;▹ Computer Engineering Student
+&nbsp;&nbsp;▹ Full Stack Web Development
+&nbsp;&nbsp;▹ Open Source Contributor
+&nbsp;&nbsp;▹ Clean Architecture &amp; Problem Solving
+
+</td>
+<td width="50%" valign="top">
+
+#### 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚆𝚒𝚝𝚑
+
+&nbsp;&nbsp;▹ React · Node.js · Express
+&nbsp;&nbsp;▹ MongoDB
+&nbsp;&nbsp;▹ Tailwind CSS
+&nbsp;&nbsp;▹ Git &amp; GitHub
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:FBCFE8,100:0A0A0A&height=2" />
+
+<div align="center">
+
+<br/>
+
+<sub>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=c,python,javascript&theme=dark&perline=3" height="34"/>
+
+<br/>
+
+<sub>𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" height="34"/>
+
+<br/>
+
+<sub>𝙱𝙰𝙲𝙺𝙴𝙽𝙳</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" height="34"/>
+
+<br/>
+
+<sub>𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=1" height="34"/>
+
+<br/>
+
+<sub>𝚃𝙾𝙾𝙻𝚂</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4" height="34"/>
+
+<br/>
+
+</div>
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:F9A8D4,100:0A0A0A&height=2" />
+
+<div align="center">
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=santoshikumbhar3-art&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=F9A8D4&icon_color=FBCFE8&text_color=E8E8EA&border_radius=14" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshikumbhar3-art&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=F9A8D4&text_color=E8E8EA&border_radius=14" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshikumbhar3-art&hide_border=true&background=0D0D0F&stroke=F9A8D4&ring=FBCFE8&fire=F9A8D4&currStreakLabel=F9A8D4&sideLabels=E8E8EA&dates=8A8A90&currStreakNum=E8E8EA&sideNums=E8E8EA&border_radius=14" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=santoshikumbhar3-art&theme=flat&no-frame=true&no-bg=true&column=4&row=1&margin-w=6&margin-h=6" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshikumbhar3-art&hide_border=true&bg_color=0D0D0F&color=F9A8D4&line=F9A8D4&point=FDE2E4&area_color=FBCFE8&area=true&border_radius=14" width="98%" />
+
+<br/>
+
+</div>
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:FBCFE8,100:0A0A0A&height=2" />
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/santoshikumbhar3-art">
+  <img src="https://img.shields.io/badge/GitHub-santoshikumbhar3--art-0D0D0F?style=for-the-badge&logo=github&logoColor=F9A8D4&labelColor=0D0D0F" />
+</a>
+<a href="mailto:santoshikumbhar3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-santoshikumbhar3%40gmail.com-0D0D0F?style=for-the-badge&logo=gmail&logoColor=F9A8D4&labelColor=0D0D0F" />
+</a>
+
+<br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a1a1a,100:0A0A0A&height=100&section=footer" />
+
+<p align="center"><sub>Code. Build. Contribute.</sub></p>
