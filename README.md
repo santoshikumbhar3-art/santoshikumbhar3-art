@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/santoshikumbhar3-art/santoshikumbhar3-art/main/assets/hero-banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/santoshikumbhar3-art/santoshikumbhar3-art/main/hero-banner.svg" width="100%" />
 
 <br/>
 
