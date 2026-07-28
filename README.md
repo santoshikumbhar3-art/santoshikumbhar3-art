@@ -102,6 +102,7 @@ I enjoy building scalable applications, learning new technologies, and writing c
 
 <br/>
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshikumbhar3-art&hide_border=true&bg_color=0D0D0F&color=F9A8D4&line=F9A8D4&point=FDE2E4&area_color=FBCFE8&area=true&border_radius=14" width="98%" />
 </p>
 <br/>
 
