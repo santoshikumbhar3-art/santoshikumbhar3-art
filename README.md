@@ -101,9 +101,9 @@ I enjoy building scalable applications, learning new technologies, and writing c
 <img src="https://github-profile-trophy.vercel.app/?username=santoshikumbhar3-art&theme=flat&no-frame=true&no-bg=true&column=4&row=1&margin-w=6&margin-h=6" width="49%" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshikumbhar3-art&hide_border=true&bg_color=0D0D0F&color=F9A8D4&line=F9A8D4&point=FDE2E4&area_color=FBCFE8&area=true&border_radius=14" width="98%" />
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshikumbhar3-art&theme=github-dark&hide_border=true" width="100%"/>
+</p>
 <br/>
 
 </div>
